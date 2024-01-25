@@ -67,4 +67,5 @@ sudo python3 my_install.py
 ![צילום מסך 2024-01-25 085850](https://github.com/ronch11/Nevertrust/assets/71279601/632a0170-091b-4301-9045-5d5f2d8ddadd)
 
 Now let's check wich prmition we are have
+
 ![צילום מסך 2024-01-25 085827](https://github.com/ronch11/Nevertrust/assets/71279601/14c8fef0-3976-4d59-9902-46b0d3a4316d)
