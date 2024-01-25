@@ -20,5 +20,7 @@ SEPARATOR = "<sep>
 ```
 
 # Run
-
+```
+pip install socket tqdm 
+```
 
