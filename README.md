@@ -24,7 +24,7 @@ We will be use with two machine, the first one will be Parrot is for the attacke
 
 
 ```
-python server.py
+python3 server.py
 ```
 ![צילום מסך 2024-01-25 065805](https://github.com/ronch11/Nevertrust/assets/71279601/bd3e7152-2010-4b24-b127-b0101115d547)
 
@@ -56,3 +56,15 @@ Let's cheek the IP of the target
 
  We can see that we get the same IP address on the Parrot shell
 ![צילום מסך 2024-01-25 084416](https://github.com/ronch11/Nevertrust/assets/71279601/a48de220-54ae-49c7-8e5f-24dc1c82101f)
+
+We run the installion on the client without using sudo, so we are the permissions of the currect user
+![צילום מסך 2024-01-25 085109](https://github.com/ronch11/Nevertrust/assets/71279601/edbbb725-2b00-40cf-9642-88ecb2ac6bf8)
+
+Now let's run the install with sudo
+```bash
+sudo python3 my_install.py 
+```
+![צילום מסך 2024-01-25 085850](https://github.com/ronch11/Nevertrust/assets/71279601/632a0170-091b-4301-9045-5d5f2d8ddadd)
+
+Now let's check wich prmition we are have
+![צילום מסך 2024-01-25 085827](https://github.com/ronch11/Nevertrust/assets/71279601/14c8fef0-3976-4d59-9902-46b0d3a4316d)
