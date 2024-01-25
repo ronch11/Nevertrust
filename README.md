@@ -24,4 +24,3 @@ SEPARATOR = "<sep>
 pip install socket tqdm 
 ```
 
-![Uploading image.png…]()
