@@ -23,6 +23,7 @@ SEPARATOR = "<sep>
 ```
 pip install socket tqdm 
 ```
+![צילום מסך 2024-01-25 065805](https://github.com/ronch11/Nevertrust/assets/71279601/bd3e7152-2010-4b24-b127-b0101115d547)
 
-![Uploading image.png…]![צילום מסך 2024-01-25 065406](https://github.com/ronch11/Nevertrust/assets/71279601/dddc57e6-c783-4ba7-b56f-3f23bec7b509)
+
 
