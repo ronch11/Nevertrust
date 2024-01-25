@@ -1,4 +1,4 @@
-![image](https://github.com/ronch11/Nevertrust/assets/71279601/ebd373db-7a59-4e33-99cd-13fc527fed79)# Nevertrust
+# Nevertrust
 
 This project Simulates a fake library of python that when the target see the installation of the packets, there is a side channel that open a connection to attacker and give him possible Shellcode attack.
 ## Installation
